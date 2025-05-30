@@ -8,4 +8,7 @@ title: Notes
 
 [Numpy Tutorials](https://numpy.org/numpy-tutorials/)
 
-* [Deep learning on MNIST](https://numpy.org/numpy-tutorials/content/tutorial-deep-learning-on-mnist.html) Build a MNIST classifier from numpy, NNFS style. 
+* [Deep learning on MNIST](https://numpy.org/numpy-tutorials/content/tutorial-deep-learning-on-mnist.html) Build a MNIST classifier from numpy, NNFS style.
+
+Function approximation video, [Watching Neural Networks Learn](https://youtu.be/TkwXa7Cvfr8?feature=shared). 
+
